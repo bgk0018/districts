@@ -1,0 +1,15 @@
+{
+  "name": "districts",
+  "version": "0.0.0",
+  "description": "districts",
+  "main": "app.js",
+  "author": {
+    "name": "Ben"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^1.4.8"
+  }
+}
